@@ -57,5 +57,5 @@ This application does not store images; it only saves face encodings for recogni
 This project is licensed under the MIT License.
 
 ---
-Developed by **Anandhu**
+**Developed by [Anandhu](https://github.com/anandhu2311c)**
 
