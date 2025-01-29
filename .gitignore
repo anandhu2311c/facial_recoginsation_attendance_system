@@ -1,0 +1,29 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Ignore OpenCV / PyQt temporary files
+*.xml
+*.xsession-errors*
+*.session
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+.history/
