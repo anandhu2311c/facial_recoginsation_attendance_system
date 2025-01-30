@@ -51,19 +51,16 @@ This application does not store images; it only saves face encodings for recogni
 ## 📸 Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/main/assests/assets/1.png)
+![Screenshot 1](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/1edc56047f863e64ae7689ebd9f739e8a5583692/assets/1.png)
 
 ### Screenshot 2
-![Screenshot 2](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/2%20bill.png)
+![Screenshot 2](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/1edc56047f863e64ae7689ebd9f739e8a5583692/assets/2.png)
 
 ### Screenshot 3
-![Screenshot 3](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/3%20bill.png)
+![Screenshot 3](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/1edc56047f863e64ae7689ebd9f739e8a5583692/assets/3.png)
 
 ### Screenshot 4
-![Screenshot 4](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/4%20bill.png)
-
-### Screenshot 5
-![Screenshot 5](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/5%20bill.png)
+![Screenshot 4](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/1edc56047f863e64ae7689ebd9f739e8a5583692/assets/4.png)
 
 
 ## 🛠️ Future Enhancements
