@@ -51,7 +51,7 @@ This application does not store images; it only saves face encodings for recogni
 ## 📸 Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/1%20bill.png)
+![Screenshot 1](https://github.com/anandhu2311c/facial_recoginsation_attendance_system/blob/main/assests/assets/1.png)
 
 ### Screenshot 2
 ![Screenshot 2](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/2%20bill.png)
