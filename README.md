@@ -53,8 +53,6 @@ This application does not store images; it only saves face encodings for recogni
 - 📊 **Data Analytics**: Provide insights into attendance trends.
 - ☁️ **Cloud Storage**: Store data securely on a remote server.
 
-## 📝 License
-This project is licensed under the MIT License.
 
 ---
 **Developed by [Anandhu](https://github.com/anandhu2311c)**
