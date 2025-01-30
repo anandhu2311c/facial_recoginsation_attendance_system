@@ -48,6 +48,24 @@ python main.py
 ## 🛡️ Security & Privacy
 This application does not store images; it only saves face encodings for recognition. Attendance logs are stored locally in JSON format.
 
+## 📸 Screenshots
+
+### Screenshot 1
+![Screenshot 1](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/1%20bill.png)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/2%20bill.png)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/3%20bill.png)
+
+### Screenshot 4
+![Screenshot 4](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/4%20bill.png)
+
+### Screenshot 5
+![Screenshot 5](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/5%20bill.png)
+
+
 ## 🛠️ Future Enhancements
 - 🔒 **User Authentication**: Add login system for administrators.
 - 📊 **Data Analytics**: Provide insights into attendance trends.
